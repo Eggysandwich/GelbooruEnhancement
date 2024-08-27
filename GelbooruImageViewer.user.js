@@ -7,6 +7,7 @@
 // @license        WTFPL; http://www.wtfpl.net/about/
 // @description    Adds a fullscreen image view option when you click on images and various other neat features
 // @match          *://gelbooru.com/*
+// @match          *://blacked.booru.org*
 // @match          *://rule34.xxx/*
 // @match          *://e621.net/*
 // @match          *://*.booru.org/*
