@@ -7,6 +7,7 @@
 // @description    Adds endless scroll function to various boorus
 // @match          *://gelbooru.com/index.php?*
 // @match          *://rule34.xxx/index.php?*
+// @match          *://blacked.booru.org*
 // @match          *://e621.net/post/index/*
 // @match          *://*.booru.org/index.php?*
 // @match          *://rule34.paheal.net/post/list*
